@@ -35,6 +35,7 @@
  * @file bmp280_spi.cpp
  *
  * SPI interface for BMP280
+ * SPI interface for BMP280
  */
 
 #include "bmp280.h"
